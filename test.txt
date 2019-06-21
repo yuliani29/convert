@@ -1,0 +1,4 @@
+D:/Yolo3/YOLO-Annotation-Tool/imagetrain/IMG_20190214_110931.jpg
+D:/Yolo3/YOLO-Annotation-Tool/imagetrain/IMG_20190214_114706.jpg
+D:/Yolo3/YOLO-Annotation-Tool/imagetrain/IMG_20190214_115548.jpg
+D:/Yolo3/YOLO-Annotation-Tool/imagetrain/IMG_20190214_121943.jpg
